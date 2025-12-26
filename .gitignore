@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+coverage/
+storybook-static/
+
+# System
+.DS_Store
+*.log
+*storybook.log
